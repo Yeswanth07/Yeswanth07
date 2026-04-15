@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nation scale AI first implementations<br>👯 I’m looking to collaborate on AI, ML and Robotics<br>🌱 I’m currently learning AI in robotics<br>⚡ Fun fact, me and best friend share the same birthday as Kamal and Rajini
+🔭 I’m currently working on nation scale AI first implementations<br>👯 I’m looking to collaborate on AI, ML and Robotics<br>🌱 I’m currently learning AI in core engineering<br>⚡ Fun fact, me and best friend share the same birthday as Kamal and Rajini
 
 
 ## 🌐 Socials:
